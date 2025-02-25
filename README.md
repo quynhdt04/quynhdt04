@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m quynhdt04
 👀 I’m passionate about software development.  
-🌱 I’m actively exploring application programming, software architecture, and emerging technologies.
+🌱 I’m actively exploring application programming, software architecture, and emerging technologies.<br/> 
 🔗 Check out my portfolio: [Portfolio Link](https://quynhdt04.github.io/portfolio/)
 
 # 💻 Tech Stack:
