@@ -1,0 +1,27 @@
+name: Update 3D GitHub Contributions
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Chạy tự động mỗi ngày lúc 00:00 UTC
+  workflow_dispatch:  # Cho phép chạy thủ công
+
+jobs:
+  update-contributions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@main
+        with:
+          username: "quynhdt04"  # Đổi thành username của bạn
+          svg_out_path: "profile-night-green.svg"
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add profile-night-green.svg
+          git commit -m "Update GitHub Contribution Graph"
+          git push
