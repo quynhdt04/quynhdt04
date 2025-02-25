@@ -11,6 +11,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=quynhdt04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quynhdt04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📊 GitHub Contributions  
-![GitHub Contributions](https://github.com/quynhdt04/quynhdt04/blob/main/profile-3d-contrib/profile-green-animate.svg)
+## 📈 Contribution Graph  
+![Quynh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=quynhdt04&theme=react-dark)
+
 
