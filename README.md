@@ -11,3 +11,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=quynhdt04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quynhdt04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 📈 Contribution Graph
+![Quynh's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=quynhdt04&theme=react-dark)
