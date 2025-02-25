@@ -12,6 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quynhdt04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📈 Contribution Graph  
-![Quynh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=quynhdt04&theme=react-dark)
+![GitHub Contributions](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
 
 
